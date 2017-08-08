@@ -1,3 +1,4 @@
 public with sharing class ApexClass2 {
-    Add();
+    System.log('Hello');
 }
+    
